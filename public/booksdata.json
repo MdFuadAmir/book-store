@@ -1,103 +1,103 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/covers/book1.jpg",
+      "cover": "https://i.ibb.co.com/hWHD1mc/pexels-pixabay-415071.jpg",
       "title": "The Art of Mindfulness",
       "author": "John Doe",
-      "author_img": "https://example.com/authors/johndoe.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-01-15",
       "reading_time": "10 min",
       "hashtags": ["#mindfulness", "#wellness", "#selfcare"]
     },
     {
       "id": 2,
-      "cover": "https://example.com/covers/book2.jpg",
+      "cover": "https://i.ibb.co.com/M91nbx7/pexels-jessbaileydesign-762687.jpg",
       "title": "Tech Trends 2024",
       "author": "Jane Smith",
-      "author_img": "https://example.com/authors/janesmith.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-02-10",
       "reading_time": "8 min",
       "hashtags": ["#technology", "#innovation", "#trends"]
     },
     {
       "id": 3,
-      "cover": "https://example.com/covers/book3.jpg",
+      "cover": "https://i.ibb.co.com/mFP4rVP/pexels-caio-46274.jpg",
       "title": "The Psychology of Success",
       "author": "Alex Johnson",
-      "author_img": "https://example.com/authors/alexjohnson.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-03-05",
       "reading_time": "12 min",
       "hashtags": ["#success", "#motivation", "#psychology"]
     },
     {
       "id": 4,
-      "cover": "https://example.com/covers/book4.jpg",
+      "cover": "https://i.ibb.co.com/hWHD1mc/pexels-pixabay-415071.jpg",
       "title": "Traveling the World on a Budget",
       "author": "Emily Brown",
-      "author_img": "https://example.com/authors/emilybrown.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-04-20",
       "reading_time": "7 min",
       "hashtags": ["#travel", "#budget", "#adventure"]
     },
     {
       "id": 5,
-      "cover": "https://example.com/covers/book5.jpg",
+      "cover": "https://i.ibb.co.com/M91nbx7/pexels-jessbaileydesign-762687.jpg",
       "title": "Healthy Eating Made Simple",
       "author": "Michael Green",
-      "author_img": "https://example.com/authors/michaelgreen.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-05-30",
       "reading_time": "6 min",
       "hashtags": ["#health", "#nutrition", "#food"]
     },
     {
       "id": 6,
-      "cover": "https://example.com/covers/book6.jpg",
+      "cover": "https://i.ibb.co.com/mFP4rVP/pexels-caio-46274.jpg",
       "title": "Mastering Remote Work",
       "author": "Sophia Davis",
-      "author_img": "https://example.com/authors/sophiadavis.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-06-15",
       "reading_time": "9 min",
       "hashtags": ["#remotework", "#productivity", "#workfromhome"]
     },
     {
       "id": 7,
-      "cover": "https://example.com/covers/book7.jpg",
+      "cover": "https://i.ibb.co.com/hWHD1mc/pexels-pixabay-415071.jpg",
       "title": "Investing 101",
       "author": "Chris Wilson",
-      "author_img": "https://example.com/authors/chriswilson.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-07-05",
       "reading_time": "15 min",
       "hashtags": ["#investing", "#finance", "#money"]
     },
     {
       "id": 8,
-      "cover": "https://example.com/covers/book8.jpg",
+      "cover": "https://i.ibb.co.com/M91nbx7/pexels-jessbaileydesign-762687.jpg",
       "title": "Fitness for Beginners",
       "author": "Anna Lee",
-      "author_img": "https://example.com/authors/annalee.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-08-25",
       "reading_time": "5 min",
       "hashtags": ["#fitness", "#health", "#exercise"]
     },
     {
       "id": 9,
-      "cover": "https://example.com/covers/book9.jpg",
+      "cover": "https://i.ibb.co.com/mFP4rVP/pexels-caio-46274.jpg",
       "title": "The Future of AI",
       "author": "Mark Taylor",
-      "author_img": "https://example.com/authors/marktaylor.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-09-12",
       "reading_time": "20 min",
       "hashtags": ["#AI", "#technology", "#future"]
     },
     {
       "id": 10,
-      "cover": "https://example.com/covers/book10.jpg",
+      "cover": "https://i.ibb.co.com/hWHD1mc/pexels-pixabay-415071.jpg",
       "title": "Building Strong Relationships",
       "author": "Olivia Walker",
-      "author_img": "https://example.com/authors/oliviawalker.jpg",
+      "author_img": "https://i.ibb.co.com/6ncBSqm/profile.jpg",
       "posted_date": "2024-10-01",
       "reading_time": "11 min",
-      "hashtags": ["#relationships", "#selfimprovement", "#communication"]
+      "hashtags": ["#relationships","#selfimprovement"]
     }
   ]
   
