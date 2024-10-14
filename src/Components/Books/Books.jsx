@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Book from "../Book/Book";
 import PropTypes from 'prop-types'; 
 
-const Books = ({handelAddToBookMark}) => {
+const Books = ({ handelAddToBookMark, handelMarkAsRead }) => {
     const [books,setBooks] = useState([]);
 
     useEffect(()=>{
@@ -20,6 +20,7 @@ const Books = ({handelAddToBookMark}) => {
                         key={book.id} 
                         book={book}
                         handelAddToBookMark={handelAddToBookMark}
+                        handelMarkAsRead={handelMarkAsRead}
                         ></Book>)
                 }
             </div>
@@ -30,5 +31,6 @@ const Books = ({handelAddToBookMark}) => {
 export default Books;
 
 Book.propTypes ={
-    handelAddToBookMark: PropTypes.func.isRequired
+    handelAddToBookMark: PropTypes.func.isRequired,
+    handelMarkAsRead: PropTypes.func.isRequired
 }
