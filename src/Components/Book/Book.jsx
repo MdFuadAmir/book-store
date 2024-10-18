@@ -27,13 +27,12 @@ const Book = ({book,handelAddToBookMark,handelMarkAsRead}) => {
                 <div className='mt-6 space-y-2'>
                     <h1 className='text-xl font-bold font-serif'>{title}</h1>
                     <p className='text-blue-500'>{hashtags}</p>
-                    <button onClick={()=>handelMarkAsRead(reading_time)} className='font-bold text-purple-700 underline'>Mark As Read</button>
+                    <button onClick={()=>handelMarkAsRead(book)} className='font-bold text-purple-700 underline'>Mark As Read</button>
                 </div>
             </div>
         </div>
     );
 };
-
 export default Book;
 
 Book.propTypes = {
